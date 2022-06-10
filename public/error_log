@@ -1,0 +1,36 @@
+[06-Dec-2020 16:19:11 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Symfony\Component\HttpFoundation\Response::setStatusCode() must be an instance of Symfony\Component\HttpFoundation\object, instance of Symfony\Component\HttpFoundation\Response returned in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php:475
+Stack trace:
+#0 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php(219): Symfony\Component\HttpFoundation\Response->setStatusCode(500)
+#1 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(471): Symfony\Component\HttpFoundation\Response->__construct('<!doctype html>...', 500, Array)
+#2 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(448): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(ErrorException))
+#3 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.ph in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php on line 475
+[06-Dec-2020 16:19:20 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Symfony\Component\HttpFoundation\Response::setStatusCode() must be an instance of Symfony\Component\HttpFoundation\object, instance of Symfony\Component\HttpFoundation\Response returned in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php:475
+Stack trace:
+#0 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php(219): Symfony\Component\HttpFoundation\Response->setStatusCode(500)
+#1 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(471): Symfony\Component\HttpFoundation\Response->__construct('<!doctype html>...', 500, Array)
+#2 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(448): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(ErrorException))
+#3 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.ph in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php on line 475
+[06-Dec-2020 16:19:24 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Symfony\Component\HttpFoundation\Response::setStatusCode() must be an instance of Symfony\Component\HttpFoundation\object, instance of Symfony\Component\HttpFoundation\Response returned in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php:475
+Stack trace:
+#0 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php(219): Symfony\Component\HttpFoundation\Response->setStatusCode(500)
+#1 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(471): Symfony\Component\HttpFoundation\Response->__construct('<!doctype html>...', 500, Array)
+#2 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(448): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(ErrorException))
+#3 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.ph in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php on line 475
+[06-Dec-2020 16:19:31 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Symfony\Component\HttpFoundation\Response::setStatusCode() must be an instance of Symfony\Component\HttpFoundation\object, instance of Symfony\Component\HttpFoundation\Response returned in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php:475
+Stack trace:
+#0 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php(219): Symfony\Component\HttpFoundation\Response->setStatusCode(500)
+#1 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(471): Symfony\Component\HttpFoundation\Response->__construct('<!doctype html>...', 500, Array)
+#2 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(448): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(ErrorException))
+#3 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.ph in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php on line 475
+[06-Dec-2020 16:19:37 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Symfony\Component\HttpFoundation\Response::setStatusCode() must be an instance of Symfony\Component\HttpFoundation\object, instance of Symfony\Component\HttpFoundation\Response returned in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php:475
+Stack trace:
+#0 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php(219): Symfony\Component\HttpFoundation\Response->setStatusCode(500)
+#1 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(471): Symfony\Component\HttpFoundation\Response->__construct('<!doctype html>...', 500, Array)
+#2 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(448): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(ErrorException))
+#3 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.ph in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php on line 475
+[06-Dec-2020 16:19:50 UTC] PHP Fatal error:  Uncaught TypeError: Return value of Symfony\Component\HttpFoundation\Response::setStatusCode() must be an instance of Symfony\Component\HttpFoundation\object, instance of Symfony\Component\HttpFoundation\Response returned in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php:475
+Stack trace:
+#0 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php(219): Symfony\Component\HttpFoundation\Response->setStatusCode(500)
+#1 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(471): Symfony\Component\HttpFoundation\Response->__construct('<!doctype html>...', 500, Array)
+#2 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(448): Illuminate\Foundation\Exceptions\Handler->convertExceptionToResponse(Object(ErrorException))
+#3 /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.ph in /home/ftuimaci/labkomputer.ft-uim.ac.id/vendor/symfony/http-foundation/Response.php on line 475

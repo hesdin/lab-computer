@@ -1,0 +1,1 @@
+[19-Feb-2021 12:12:04 UTC] PHP Fatal error:  Interface 'JsonSerializable' not found in /home/ftuimaci/labkomputer.uim-makassar.ac.id/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
